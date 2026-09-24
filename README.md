@@ -1,4 +1,3 @@
-::: {align="center"}
 # 👋 Привет! Я Михаил
 
 ### `Pachicom` · Backend Developer
@@ -10,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -136,21 +135,7 @@ class Developer:
 
 ## 📊 GitHub
 
-::: {align="center"}
 ![Profile
 Views](https://komarev.com/ghpvc/?username=Pachicom&style=for-the-badge&color=7c3aed)
-:::
 
-------------------------------------------------------------------------
 
-## 🌐 Контакты
-
-::: {align="center"}
-**GitHub:** `Pachicom`
-
-Если тебе интересны мои проекты --- заглядывай в репозитории ⭐
-
-`<br>`{=html}
-
-### `Thanks for visiting my profile!`
-:::
